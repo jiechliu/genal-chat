@@ -14,7 +14,7 @@ import { join } from 'path';
       port: 3306,
       host: '0.0.0.0',
       username: 'root',
-      password: '000000raftx',
+      password: '',
       database: 'chat',
       charset: "utf8mb4", // 设置chatset编码为utf8mb4
       autoLoadEntities: true,
